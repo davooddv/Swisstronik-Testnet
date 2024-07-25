@@ -1,3 +1,5 @@
+## First of all get faucet: https://faucet.testnet.swisstronik.com/
+## THEN
 ## DEPLOY A SIMPLE CONTRACT USING HARDHAT
 
 - Open Github Codespace/ Gitpod / Linux based Terminal (Ubuntu, WSL), Here is the guide how to install Ubuntu : [Click Here](https://github.com/dxzenith/nodes-faq)
@@ -129,5 +131,4 @@ nano hardhat.config.js
 - Now delete your private key from here
 - Then to save this file use `Ctrl+X` then `Y` and then press `Enter`
 - Now you need to upload these files on your github repository
-- Follow [this guide](https://github.com/dxzenith/Swisstronik-Testnet/blob/main/Upload-To-Github.md) to upload these files in your github repository
-- Then submit your contract address and github repo link [here](https://www.swisstronik.com/testnet2/dashboard)
+## lET'S MOVE ON TO 2ND STEP
